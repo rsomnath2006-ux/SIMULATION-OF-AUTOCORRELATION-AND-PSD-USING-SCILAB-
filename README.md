@@ -49,6 +49,7 @@ subplot(3,2,5);
 plot(fw2);
 ```
 # OUTPUT:
+<img width="1917" height="1133" alt="Autocorrection" src="https://github.com/user-attachments/assets/6d681a58-79aa-4d94-908c-aa0f2c09c26f" />
 
 
 # RESULT:
