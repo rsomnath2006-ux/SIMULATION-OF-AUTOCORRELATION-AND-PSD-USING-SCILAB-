@@ -6,6 +6,7 @@ Write a program for Autocorrelation and PSD of signals in SCILAB and verify Wien
 # EQUIPMENTS Needed
 
 •	Computer with i3 Processor
+
 •	SCI LAB
 
 # THEORY:
@@ -20,11 +21,17 @@ The Wiener-Khinchin theorem states that the power spectral density of a wide sen
 # PROCEDURE
 
 •	Refer Algorithms and write code for the experiment.
+
 •	Open SCILAB in System
+
 •	Type your code in New Editor
+
 •	Save the file
+
 •	Execute the code
+
 •	If any Error, correct it in code and execute again
+
 •	Verify the generated waveform using Tabulation and Model Waveform
 
 # PROGRAM:
@@ -50,6 +57,9 @@ plot(fw2);
 ```
 # OUTPUT:
 <img width="1917" height="1133" alt="Autocorrection" src="https://github.com/user-attachments/assets/6d681a58-79aa-4d94-908c-aa0f2c09c26f" />
+
+# SIGNED OUTPUT:
+<img width="1280" height="831" alt="WhatsApp Image 2026-06-01 at 1 08 57 PM" src="https://github.com/user-attachments/assets/41c601fc-f12b-46b7-af2f-baf0ba3415d4" />
 
 
 # RESULT:
